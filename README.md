@@ -8,7 +8,20 @@
 
 Thanks for visiting my GitHub account!
 
-## https://excalidraw.com/
+## Necessary Links
+1. Drow-Design-> https://excalidraw.com/
+2. Image-to-Text -> https://www.onlineocr.net/
+3. PDF-to-Image -> https://www.ilovepdf.com/pdf_to_jpg
+4. SSLCommerz (Payment) -> [visit](https://sandbox.sslcommerz.com/manage/?request=c2VjdXJpdHllbmNyaXB0bG9naW46dmlld3NlY3VyaXR5ZW5jcmlwdA%3D%3D&id=c2VjdXJpdHllbmNyaXB0MXNlY3VyaXR5ZW5jcmlwdA%3D%3D)
+5. Mailtrp (Mail) -> https://mailtrap.io/signin
+6. Free Hosting -> https://profreehost.com/login/
+7. Free Hosting -> http://cpanel.unaux.com/index.php
+8. Free Hosting -> https://dash.infinityfree.com/login
+9. Youtube Multidownloader -> https://youtubemultidownloader.net/playlists.html
+10. JetBrains -> https://account.jetbrains.com/login
+11. Photoshop -> https://www.photopea.com/
+12. Background remove -> https://www.remove.bg/
+13. Screenshot -> https://app.prntscr.com/en/download.html
 
 ## Follow Me
 

@@ -23,6 +23,21 @@ Thanks for visiting my GitHub account!
 12. Background remove -> https://www.remove.bg/
 13. Screenshot -> https://app.prntscr.com/en/download.html
 
+## Research Paper
+
+### For Search Paper 
+1. Google Scholar -> https://scholar.google.com/
+2. ResearchGate -> https://www.researchgate.net/
+3. ScienceOPEN -> https://www.scienceopen.com/
+4. DOAJ -> https://doaj.org/
+5. PubMed -> https://pubmed.ncbi.nlm.nih.gov/
+6. Semantics Scholar -> https://www.semanticscholar.org/
+
+
+### For Download Paper 
+1. SCI-HUB (Search with DOI/URL) -> https://sci-hub.se/
+2. SCI-HUB (Search with DOI/URL) -> https://sci-hub.wf/
+
 ## Follow Me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/learnwithfair) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/learnwithfair/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/learnwithfair/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://www.twiter.com/learnwithfair/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@learnwithfair)

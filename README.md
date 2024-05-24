@@ -37,6 +37,7 @@ Thanks for visiting my GitHub account!
 ### For Download Paper 
 1. SCI-HUB (Search with DOI/URL) -> https://sci-hub.se/
 2. SCI-HUB (Search with DOI/URL) -> https://sci-hub.wf/
+3. ReacherGate -> https://www.researchgate.net/
 
 ## Follow Me
 

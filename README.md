@@ -38,6 +38,25 @@ Thanks for visiting my GitHub account!
 1. SCI-HUB (Search with DOI/URL) -> https://sci-hub.se/
 2. SCI-HUB (Search with DOI/URL) -> https://sci-hub.wf/
 3. ReacherGate -> https://www.researchgate.net/
+4. Kaggle -> https://www.kaggle.com/
+5. Papers with Source Code -> https://paperswithcode.com/
+
+## Software for intro video
+1. Panzoid -> https://panzoid.com/
+2. TechSmith Assets -> https://library.techsmith.com/en/
+3. Flixpree ->
+4. Apps (Android Mobile) -> Intro Maker Pro
+
+## Lower Third
+1. Typito -> https://typito.com/
+
+## Background Sounds
+1. No copyright sound -> Google / YouTube
+2. Audio library -> YouTube
+
+## Screen Recorder
+1. Camtasia (Paid)
+2. OBS Studio
 
 ## Follow Me
 

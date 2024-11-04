@@ -59,7 +59,7 @@ Thanks for visiting my GitHub account!
 1. Camtasia (Paid)
 2. OBS Studio
 
-## Generate Resume / Cover Latter
+## Generate Resume / Cover Latter (rahatul.demo@gmail.com)
 - https://app.flowcv.com/dashboard
 
 ## Follow Me

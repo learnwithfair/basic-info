@@ -42,6 +42,24 @@ Thanks for visiting my GitHub account!
 4. Kaggle -> https://www.kaggle.com/
 5. Papers with Source Code -> https://paperswithcode.com/
 
+
+### For free Plagorism checker
+- https://papersowl.com/free-plagiarism-checker
+
+### For For Reference Generator
+- https://www.mybib.com/#/projects/G08Rq0/citations
+
+### For Paraphasing  
+- https://quillbot.com/paraphrasing-tool
+
+
+### For Live Hosting (Website)
+1. Netlify
+2. heroku
+3. vercel
+4. tiiny.host
+
+
 ## Software for intro video
 1. Panzoid -> https://panzoid.com/
 2. TechSmith Assets -> https://library.techsmith.com/en/

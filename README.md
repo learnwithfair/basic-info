@@ -102,6 +102,9 @@ Thanks for visiting my GitHub account!
 - WebHook -> https://app.revenuecat.com/projects/ca9be3bf/integrations/webhooks
 - Event List -> https://www.revenuecat.com/docs/integrations/webhooks/sample-events
 
+## SMTP, IMAP & POP3 (Free but temporary) 
+- https://ethereal.email/create
+
 
 ## Follow Me
 
